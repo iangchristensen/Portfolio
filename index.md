@@ -23,7 +23,9 @@ May 2019-August 2019	Embedded Systems Intern,  Paladin Engineering
 •	Added font handling functionality to the HyperDisplay library
 •	Used an ESP32 that required awareness of memory constraints
 •	Assisted in teaching a middle school robotics course on Arduino
+
 August 2018-January 2019	Resident Assistant,  Calvin University
+
 •	Promoted a social and educational environment for forty residents
 •	Counseled a variety of residents struggling to adjust to college life
 •	Responded to and handled violations of the Residence Life policies
